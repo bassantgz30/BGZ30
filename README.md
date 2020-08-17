@@ -1,8 +1,8 @@
 ### Hi, I'm Bassant 👋
 
-Software engineer :man_technologist:. (In progress)
+Software Engineer :man_technologist
 
-🎓Recent EECE graduate from Cairo University - Egypt
+🎓 Recent EECE graduate from Cairo University - Egypt.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgz30" alt="bgz30" /> </p>
 
@@ -29,7 +29,7 @@ Software engineer :man_technologist:. (In progress)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
 ### ⚡ Fun fact:
-Converting a string to a single character is possible! sounds wierd?
+Converting a list of strings into a single character is possible! sounds wierd?
 
 Here is the Python pseudocode for "str_to_char" function :smiley:
 
