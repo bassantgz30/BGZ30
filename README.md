@@ -15,8 +15,8 @@ Bassant is a flower, and in French, it's called Pansy <img width="25" src="https
  
 - :mailbox: You can reach me with the links below:
  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bassant.gamalzaid@gmail.com)](mailto:bassant.gamalzaid@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassant-gamal-8bb42a107/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bassant.gamalzaid@gmail.com)](mailto:bassant.gamalzaid@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassant-gamal-8bb42a107/)
 
 
 ### Techs and Tools :hammer:
