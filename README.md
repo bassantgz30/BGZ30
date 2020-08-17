@@ -1,15 +1,18 @@
 ### Hi, I'm Bassant 👋
 
-Software Engineer :man_technologist
+Software Engineer :woman_technologist:
 
 🎓 Recent EECE graduate from Cairo University - Egypt.
 
-## About me 
+Bassant is a flower, and in French, it's called Pansy <img width="25" src="https://github.com/BGZ30/BGZ30/blob/master/pansy_bot.png">.
+
+
+## More about me 
 
 :heart: Embroidery | :black_heart: Languages | :blue_heart: Programming
 
 - 🌱 I’m currently learning about Design Patterns and Dynamic Programming.
-
+ 
 - :mailbox: You can reach me with the links below:
  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bassant.gamalzaid@gmail.com)](mailto:bassant.gamalzaid@gmail.com)
