@@ -4,8 +4,6 @@ Software Engineer :man_technologist
 
 🎓 Recent EECE graduate from Cairo University - Egypt.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bgz30" alt="bgz30" /> </p>
-
 ## About me 
 
 :heart: Embroidery | :black_heart: Languages | :blue_heart: Programming
@@ -18,7 +16,7 @@ Software Engineer :man_technologist
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassant-gamal-8bb42a107/)
 
 
-### Languages and Tools :eyes:
+### Techs and Tools :hammer:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -35,20 +33,6 @@ Here is the Python pseudocode for "str_to_char" function :smiley:
 
 <img width="300" src="https://github.com/BGZ30/BGZ30/blob/master/str2char_implement2.png">
 
-I am using colorful strings to convert my favorite characters into nice layouts, find more here [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
+I am using colorful strings to convert my favorite characters into nice layouts, find more here 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
 
-
-<!--
-**BGZ30/BGZ30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
