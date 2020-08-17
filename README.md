@@ -25,9 +25,9 @@ Bassant is a flower, and in French, it's called Pansy <img width="25" src="https
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### ⚡ Fun fact:
 Converting a list of strings into a single character is possible! sounds wierd?
