@@ -19,7 +19,7 @@ Bassant is a flower, and in French, it's called Pansy <img width="25" src="https
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassant-gamal-8bb42a107/)
 
 
-### Techs and Tools :hammer:
+### Techs and Tools 🛠️
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
@@ -28,7 +28,7 @@ Bassant is a flower, and in French, it's called Pansy <img width="25" src="https
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)
+![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)
 
 ### ⚡ Fun fact:
 Converting a list of strings into a single character is possible! sounds wierd?
