@@ -2,7 +2,7 @@
 
 Software engineer :man_technologist:. (In progress)
 
-🎓Recent EECE graduate from Cairo University - Egypt :pyramid:
+🎓Recent EECE graduate from Cairo University - Egypt
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgz30" alt="bgz30" /> </p>
 
@@ -16,7 +16,6 @@ Software engineer :man_technologist:. (In progress)
  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bassant.gamalzaid@gmail.com)](mailto:bassant.gamalzaid@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassant-gamal-8bb42a107/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
 
 
 ##### Languages and Tools
@@ -29,8 +28,10 @@ Software engineer :man_technologist:. (In progress)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
+#### Fun Fact
+Converting a string to a single character is possible! sound wierd?
 
-
+Find more here [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
 
 
 <!--
