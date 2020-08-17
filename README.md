@@ -20,14 +20,14 @@ Bassant is a flower, and in French, it's called Pansy <img width="25" src="https
 
 
 ### Techs and Tools :hammer:
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### ⚡ Fun fact:
 Converting a list of strings into a single character is possible! sounds wierd?
