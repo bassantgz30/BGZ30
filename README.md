@@ -28,14 +28,14 @@ Software engineer :man_technologist:. (In progress)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
-### Fun Fact :grin:
-Converting a string to a single character is possible! sound wierd?
+### ⚡ Fun fact: ... :grin:
+Converting a string to a single character is possible! sounds wierd?
 
 Here is the Python pseudocode for "str_to_char" function :smiley:
 
-<img width="250" src="https://github.com/BGZ30/BGZ30/blob/master/str2char_implement2.png">
+<img width="300" src="https://github.com/BGZ30/BGZ30/blob/master/str2char_implement2.png">
 
-Find more here [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
+I am using colorful strings to convert my favorite characters into nice layouts, find more here [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
 
 
 <!--
