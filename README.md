@@ -32,6 +32,9 @@ Software engineer :man_technologist:. (In progress)
 Converting a string to a single character is possible! sound wierd?
 
 Here is the Python pseudocode for "str_to_char" function :smiley:
+
+![image](https://github.com/BGZ30/BGZ30/blob/master/str2char_implement2.png)
+
 Find more here [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
 
 
