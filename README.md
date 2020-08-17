@@ -4,9 +4,13 @@ Software engineer :man_technologist:. (In progress)
 
 🎓Recent EECE graduate from Cairo University - Egypt :pyramid:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bgz30" alt="bgz30" /> </p>
+
 ## About me 
 
 :heart: Embroidery | :black_heart: Languages | :blue_heart: Programming
+
+- 🌱 I’m currently learning about Design Patterns and Dynamic Programming.
 
 - :mailbox: You can reach me with the links below
 
@@ -24,14 +28,8 @@ Software engineer :man_technologist:. (In progress)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bgz30" alt="bgz30" /> </p>
 
 
-
-- 🔭 I’m currently working on taking rest 
-- 🌱 I’m currently learning about Data Structures , Unix System 
-- 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
-- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 
 
 
