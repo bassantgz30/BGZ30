@@ -37,6 +37,6 @@ Here is the Python pseudocode for "str_to_char" function :smiley:
 
 <img width="300" src="https://github.com/BGZ30/BGZ30/blob/master/str2char_implement2.png">
 
-I am using colorful strings to convert my favorite characters into nice layouts, find more here 
+I am using colorful strings to convert my favorite characters into nice layouts, find out more here 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/string2char/)
 
