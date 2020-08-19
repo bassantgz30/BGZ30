@@ -31,7 +31,7 @@ Bassant is a flower, and in French, it's called Pansy <img width="25" src="https
 ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)
 
 ### ⚡ Fun fact:
-Converting a list of strings into a single character is possible! sounds wierd?
+Converting a list of strings into a single character is possible! sounds weird?
 
 Here is the Python pseudocode for "str_to_char" function :smiley:
 
