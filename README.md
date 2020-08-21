@@ -4,7 +4,7 @@ Software Engineer :woman_technologist:
 
 🎓 Recent EECE graduate from Cairo University - Egypt.
 
-Bassant is a flower, and in French, it's called Pansy <img width="25" src="https://github.com/BGZ30/BGZ30/blob/master/pansy_bot.png">.
+Bassant is a flower, and in French, it's called Pensée <img width="25" src="https://github.com/BGZ30/BGZ30/blob/master/pansy_bot.png">.
 
 
 ## More about me 
