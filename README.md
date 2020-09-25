@@ -28,7 +28,7 @@ Bassant is a flower, and in French, it's called Pensée <img width="25" src="htt
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)
+<!--![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)-->
 
 ### ⚡ Fun fact:
 Converting a list of strings into a single character is possible! sounds weird?
