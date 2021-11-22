@@ -16,7 +16,8 @@ Bassant is a flower, and in French, it's called Pensée <img width="25" src="htt
 - :mailbox: You can reach me with the links below:
  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bassant.gamalzaid@gmail.com)](mailto:bassant.gamalzaid@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassant-gamal-8bb42a107/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassantgz30/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&link=https://bassantgz30.medium.com/)](https://bassantgz30.medium.com/)
 
 
 ### Techs and Tools 🛠️
