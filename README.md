@@ -18,17 +18,18 @@ Bassant is a flower, and in French, it's called Pensée <img width="25" src="htt
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bassant.gamalzaid@gmail.com)](mailto:bassant.gamalzaid@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bassant-gamal-8bb42a107/)](https://www.linkedin.com/in/bassantgz30/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&link=https://bassantgz30.medium.com/)](https://bassantgz30.medium.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-12100E?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/bassantgz30/)](https://leetcode.com/bassantgz30/)
 
 
 ### Techs and Tools 🛠️
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
-<!--![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c)-->
+![CSharp](https://img.shields.io/badge/-CSharp-222222?style=flat&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B)
-<!--![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)-->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![DotNet](https://img.shields.io/badge/-DotNet-222222?style=flat&logo=dotnet)
 <!--![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)-->
 
 <!-- ### ⚡ Fun fact:
