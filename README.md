@@ -11,7 +11,8 @@ Software Engineer :woman_technologist:
 
 :heart: Embroidery | :black_heart: Languages | :blue_heart: Programming
 
-- 🌱 I’m currently learning about Design Patterns and Dynamic Programming.
+<!-- - 🌱 I’m currently learning about Design Patterns and Dynamic Programming. -->
+- 🌱 I’m currently learning C# - Dotnet Framework.
  
 - :mailbox: You can reach me with the links below:
  
